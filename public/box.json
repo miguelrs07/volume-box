@@ -14,10 +14,15 @@
       "name": "worm",
       "desc": "worm"
     },
-        {
+    {
       "id": "fnar",
       "name": "Five Nights At Rei's",
       "desc": "Why not"
+    },
+    {
+      "id": "zeus_tycoon",
+      "name": "Zeus Tycoon",
+      "desc": "This doing is not human 😂"
     }
   ]
   
