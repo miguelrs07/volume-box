@@ -28,6 +28,11 @@
       "id": "cat",
       "name": "cat",
       "desc": "Hermanito este gato no es humano 😂"
+    },
+    {
+      "id": "blue_horse",
+      "name": "blue horse",
+      "desc": "angry horse"
     }
   ]
   
